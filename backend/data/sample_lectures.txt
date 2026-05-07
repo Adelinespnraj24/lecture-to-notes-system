@@ -1,0 +1,4 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data.
+Neural networks are inspired by the human brain and are used in deep learning for tasks like image and speech recognition.
+Natural language processing helps computers understand human language and is widely used in chatbots and translation systems.
+Data science combines statistics, programming, and domain knowledge to extract insights from data.
